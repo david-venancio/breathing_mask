@@ -12,6 +12,7 @@ Arguments for this :
 - Low volume so uses less material than other known masks
 - The shape can be used in other machines than 3D-printers (and pins added afterward)
 
-Full and updated informations here : http://www.3dlibre.com/breathing-mask
+This was made following recomendations from european authorities. 
+It has to be covered with a skin-friendly product.
 
-Licence: DWTFYWWI (Do What The Fuck You Want With It)
+No special License. The STL and BLEND files are totally free.

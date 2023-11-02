@@ -1,7 +1,7 @@
 # breathing_mask
 An open-source ultra-thin breathing mask 
 (category : disposable, non sealing, without filter)
-NOT FINISHED - NOT USABLE - USE AT YOUR OWN RISK
+USE AT YOUR OWN RISK
 
 Arguments for this : 
 - Developped for mass-production on 3D-printers
